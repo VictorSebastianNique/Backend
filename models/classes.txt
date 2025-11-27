@@ -1,0 +1,6 @@
+alegria
+decepcion
+depresion
+enojo
+frustracion
+tristeza
